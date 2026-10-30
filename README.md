@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Fikri</h1>
+<h1 align="center">Hi, I'm Naufal</h1>
 
 <h3 align="center">Environmental Engineering Student at Universitas Singaperbangsa Karawang</h3>
 
